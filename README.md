@@ -1,0 +1,1 @@
+# MetodoSimplexRevisado-ProgramacionLineal
